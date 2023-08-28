@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
 @Service
 @RequiredArgsConstructor
 @Transactional(readOnly = true)
-public class slackService {
+public class SlackService {
 
   private static final String KEEPER_CTF_BOT = "#키퍼-퍼블봇-테스트";
 
