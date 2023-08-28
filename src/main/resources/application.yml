@@ -28,3 +28,6 @@ logging:
   level:
     org.hibernate.sql: debug
     org.hibernate.type: trace
+
+slack:
+  token: xoxb-4683572787793-5810479436674-jhgRIRWcHgAkmKNBlthAc8xN
